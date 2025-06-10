@@ -3,12 +3,12 @@ let container = document.getElementById('container')
 let cartao = document.createElement('article')
 cartao.className = 'cartao'
 cartao.innerHTML = ` <div class="cartao__conteudo">
-                    <h3>Programacao</h3>
+                    <h3>${categoria}</h3>
                     <div class= "cartao__conteudo__pergunta">
-                       <p> O que é JS?</p>
+                       <p>${pergunta}?</p>
                     </div>
                     <div class="cartao__conteudo__resposta">
-                     <p>Linguagem de Programação</p>   
+                     <p>${resposta}</p>   
                      </div>
                      </div>
                      `
