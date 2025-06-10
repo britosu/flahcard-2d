@@ -14,21 +14,12 @@ criaCartao(
 criaCartao(
     'Geografia',
     'O que é Planice?',
-    'criaCartao(
+)
+    criaCartao(
     'Ingles',
     'Como é o dia do pagamento',
-    'Payday'
-)'
+    'Payday',
 )
 
-criaCartao(
-    'Ingles',
-    'Como é o dia do pagamento',
-    'Payday'
-)
 
-criaCartao(
-    'Ingles',
-    'Como é o dia do pagamento',
-    'Payday'
-)
+
